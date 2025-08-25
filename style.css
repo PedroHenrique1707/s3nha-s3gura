@@ -95,16 +95,6 @@ body {
 
 .parametro-senha__texto {}
 
-@media screen and (min-width: 768px) {
-    .parametro-coluna__senha {
-        flex-direction: row;
-    }
-}
-
-label {
-    font-size: 20px;
-}
-
 .checkbox {
     width: 20px;
     height: 20px;
